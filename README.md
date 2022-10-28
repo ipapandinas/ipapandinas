@@ -1,7 +1,7 @@
 # hi 🙋‍♂️, I'm Igor Papandinas
 
 <div id="header" align="center">
-  	<img src="https://avatars.githubusercontent.com/u/26460174?v=4" width="100" style="border-radius: 50%" />
+  	<img src="https://pbs.twimg.com/profile_images/1559261968464314369/k4eR6H45_400x400.jpg" width="100" style="border-radius: 50%" />
 	<div id="badges" style="margin-top: 10px">
 	  <a href="https://www.linkedin.com/in/igor-papandinas">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Igor Papandinas Linkedin"/>

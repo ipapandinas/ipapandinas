@@ -19,7 +19,7 @@ Here is my current DOM:
 
 \<ipapandinas><br />
 &nbsp;&nbsp;&nbsp;&nbsp;🖖 Ternoa blockchain core team member<br />
-&nbsp;&nbsp;&nbsp;&nbsp;🌐 personnal portfolio: dontelmo’s web invasion -> WIP<br />
+&nbsp;&nbsp;&nbsp;&nbsp;🌐 personnal portfolio: [dontelmo’s web invasion](https://dontelmo.xyz/)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;🐦 follow me on [Twitter](https://twitter.com/dontelmo_)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;🤝 I’m looking to collaborate, reach me on [Linkedin](https://www.linkedin.com/in/igor-papandinas)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;🍝 pasta purist<br />

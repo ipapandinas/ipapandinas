@@ -1,4 +1,4 @@
-# hi 🙋‍♂️, I'm Igor Papandinas
+# hi 🙋‍♂️, I'm Igor
 
 <div id="header" align="center">
   	<img src="https://pbs.twimg.com/profile_images/1559261968464314369/k4eR6H45_400x400.jpg" width="100" style="border-radius: 50%" />
